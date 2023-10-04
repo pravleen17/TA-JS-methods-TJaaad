@@ -32,19 +32,20 @@ Example:
    - `charAt` accepts a index (number data type) and return the character on that index in the string.
 
 2. `toUpperCase`
-3. `toLowerCase`
-4. `trim`
-5. `trimEnd`
-6. `trimStart`
-7. `concat`
-8. `endsWith`
-9. `includes`
-10. `indexOf`
-11. `lastIndexOf`
-12. `padEnd`
-13. `padStart`
-14. `repeat`
-15. `replace`
-16. `slice`
-17. `split`
-18. `substring`
+-Parameter:
+4. `toLowerCase`
+5. `trim`
+6. `trimEnd`
+7. `trimStart`
+8. `concat`
+9. `endsWith`
+10. `includes`
+11. `indexOf`
+12. `lastIndexOf`
+13. `padEnd`
+14. `padStart`
+15. `repeat`
+16. `replace`
+17. `slice`
+18. `split`
+19. `substring`
